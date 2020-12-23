@@ -1,6 +1,6 @@
-package com.company.core.server;
+package core.server;
 
-import com.company.core.utils.Utilities;
+import core.utils.Utilities;
 
 import java.io.*;
 import java.net.Socket;

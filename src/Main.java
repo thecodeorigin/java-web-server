@@ -1,6 +1,4 @@
-package com.company.run;
-
-import com.company.core.server.HTTPServer;
+import core.server.HTTPServer;
 
 public class Main {
 
