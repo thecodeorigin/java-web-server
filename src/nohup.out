@@ -1,0 +1,8 @@
+no main manifest attribute, in Main.jar
+Exception in thread "main" java.lang.NoClassDefFoundError: core/server/HTTPServer
+	at Main.main(Main.java:8)
+Caused by: java.lang.ClassNotFoundException: core.server.HTTPServer
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 1 more
